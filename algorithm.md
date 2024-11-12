@@ -68,9 +68,10 @@
     * Parameters: None
     * Return: None
     * Algorithm:
-      1. filename = read_file_name()
-      2. call name_sign(filename)
-      3. call table_seating(filename)
-      4. Return
+      1. output the purpose of the program to the user
+      2. filename = read_file_name()
+      3. call name_sign(filename)
+      4. call table_seating(filename)
+      5. Return
 
 7. Call main function
