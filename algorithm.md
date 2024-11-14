@@ -14,7 +14,7 @@
       3. Return f_name
 
 3. Function 2
-    * Purpose: To open and close the file and to read the lines in the file
+    * Purpose: To open file from user input,try to store file information into variable, except if file can't open then file is closed
     * Name: read_file
     * Parameters: file_name
     * Return: [], data
